@@ -1,0 +1,6 @@
+/node_modules
+.env
+/awsconfiguration/awsconfig.js
+/awsconfiguration/
+/awsconfiguration
+/client/src/awsconfig.js
