@@ -113,3 +113,10 @@ dist
 /client/src/.DS_Store
 .DS_Store
 /.DS_Store
+
+/node_modules
+.env
+/awsconfiguration/awsconfig.js
+/awsconfiguration/
+/awsconfiguration
+/client/src/awsconfig.js
