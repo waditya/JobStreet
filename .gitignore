@@ -109,3 +109,7 @@ dist
 /awsconfiguration/
 /awsconfiguration
 /client/src/awsconfig.js
+
+/client/src/.DS_Store
+.DS_Store
+/.DS_Store
